@@ -13,6 +13,7 @@ I'm passionate about building secure, reliable and scalable technology.
 | **Cardinals — Year 1** | 2D gravity-manipulation platformer developed by a five-member team, featuring obstacle traversal and hazard avoidance. [Project details](case-studies/cardinals.md) · [Repository](https://github.com/JeromeIsntDev/GAM150_Cardinals) | <video src="https://github.com/user-attachments/assets/04ae0e83-f9fa-4dec-99e4-90578be4c729" controls width="300"></video> |
 | **Trivio** | Interactive classroom engagement application developed through user research, collaborative prototyping and iterative design. [Case study](case-studies/trivio.md) · [Repository](https://github.com/tingjs05/Trivio) | <video src="https://github.com/user-attachments/assets/5c150ba3-9297-40c8-aaf7-96e3cfab50a5" controls width="300"></video> |
 | **Multiplayer Infrastructure Lab** | Reliable network transport and container orchestration prototypes using ENet, Docker and Kubernetes. | <video src="https://github.com/user-attachments/assets/e6ab16c3-887a-4535-bea5-11e85e7d6b18" controls width="300"></video> |
+| **Cross-Platform Graphics Programming** | Interactive 3D graphics applications featuring Phong shading, hierarchical scene graphs, ray picking, procedural rendering and screen-space UI. Built using C++, OpenGL ES 3.0 and WebGL 2. [Repository](https://github.com/y0y0zo7/hello-world) · [All projects](https://y0y0zo7.github.io/hello-world/) | [▶ Launch Interactive 3D Demo](https://y0y0zo7.github.io/hello-world/android-programming-quiz3/) |
 
 ## 🛠️ Technical Skills
 
