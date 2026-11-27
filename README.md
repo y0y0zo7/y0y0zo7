@@ -10,7 +10,7 @@ I'm passionate about building secure, reliable and scalable technology.
 |---|---|---|
 | **Multiplayer Game Engine — Year 2** | Cross-platform C++ game engine featuring four-player server-authoritative multiplayer, client-side prediction, reconciliation, interpolation, network benchmarking and Linux server deployment. [Case Study](https://github.com/y0y0zo7/multiplayer-engine-case-study) | <video src="https://github.com/user-attachments/assets/99b899aa-6a27-4029-a0d5-eb03f9fb7a2b" controls width="300"></video> |
 | **OT Simulator Infrastructure Cyber Range** | Industrial cybersecurity training environment featuring an eight-VLAN Purdue-model network, physical industrial controllers and educational attack playbooks. [Case Study](https://github.com/y0y0zo7/ot-cyber-range-case-study) | <video src="https://github.com/user-attachments/assets/4636bd97-dbef-4a67-b6f5-6348ef7e2cbf" controls width="300"></video> |
-| **Cross-Platform Graphics Programming** | Interactive 3D graphics applications featuring Phong shading, hierarchical scene graphs, ray picking, procedural rendering and automated cross-platform builds. [Repository](https://github.com/y0y0zo7/hello-world) · [All Projects](https://y0y0zo7.github.io/hello-world/) | [▶ Launch Interactive 3D Demo](https://y0y0zo7.github.io/hello-world/android-programming-quiz3/) |
+| **Cross-Platform Graphics Programming** | Interactive 3D graphics applications featuring Phong shading, hierarchical scene graphs, ray picking, procedural rendering and automated cross-platform builds. [Repository](https://github.com/y0y0zo7/hello-world) · [All Projects](https://y0y0zo7.github.io/hello-world/) | [▶ Launch Interactive 3D Demo](https://y0y0zo7.github.io/hello-world/Assignment-2-3DFan/) |
 
 ## 📂 Additional Projects
 
